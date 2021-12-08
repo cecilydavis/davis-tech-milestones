@@ -1,0 +1,48 @@
+a {
+     color:#3b3b3b; 
+    }
+h1 { 
+    /* font*/
+    color:#d0dbd3; 
+    font-family: Didot, "Didot LT STD", "Hoefler Text", Garamond, "Times New Roman", serif; 
+    font-size: 60px; 
+    font-weight: 700; 
+    line-height: 90px;
+    text-transform: uppercase;
+    /*layout*/
+    letter-spacing: 15px;
+    text-align: center;
+ } 
+h3 { 
+    /* font*/
+    color:#d0dbd3;
+    font-family: Didot, "Didot LT STD", "Hoefler Text", Garamond, "Times New Roman", serif; 
+    font-size: 24px;  
+    font-weight: 700;
+    /*layout*/ 
+    line-height: 15.4px;
+} 
+p { 
+    /* font*/
+    color:#d0dbd3;
+    font-family: Didot, "Didot LT STD", "Hoefler Text", Garamond, "Times New Roman", serif; 
+    font-size: 15px;
+    font-weight: 400; 
+    /*layout*/
+    line-height: 20px; 
+    text-align: left;
+} 
+#para1{
+    color:#d0dbd3;
+    font-size:30px;
+    line-height: 40px;
+}
+.right {
+    text-align: right;
+}
+.left{
+    text-align: left;
+}
+body {
+    background-color:#142422;
+}
